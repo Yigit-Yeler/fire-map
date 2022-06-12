@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fire-map",
+    "slug": "fire-map",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fire-map"
+}
